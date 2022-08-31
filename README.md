@@ -1,7 +1,7 @@
 # Header
 
-## subhead er
+## subheader
 
 ### another subheader
 
-Let us see somthing **bold** and in _italics_.
+Let us see something **bold** and in _italics_.
